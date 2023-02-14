@@ -1,0 +1,33 @@
+.speech{
+    color:black;
+    font-style: Times;
+    font-size: 20px;
+
+}
+.direction{
+    color:#454545;
+    font-style: Times New Roman;
+    font-size: 30px;
+    background-color:cadetblue;
+
+}
+.direction:hover{
+    color:crimson;
+    background-color: beige;
+    
+}
+.LANE{
+    font-style:italic;
+    color:darkblue;
+    background-color:antiquewhite;
+    font-size: 14px;
+
+
+}
+.MRSBAUER{
+    font-style: oblique;
+    color:brown;
+    background-color:gray;
+    font-size: 14px;
+    
+}
